@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "6532fbc706144e5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ccc161ca2b2ae10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6ad01ccb54d3ed3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/数据结构教程-李春葆/0-数据结构与算法考试大纲.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5daad8e1be165373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/数据结构教程-李春葆/数据结构的定义.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41e02836905ae36c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dc6620aa65b7d16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0163b6e6fd58d60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c39bb196628a9c32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4521e33408eb15de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72cd1694545e4d40",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3bab58889bc069a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de7f59faa09ff750",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/数据结构教程-李春葆/数据结构的定义.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec7f1f352b6811bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/数据结构教程-李春葆/数据结构的定义.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ca19fc3d69206f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6fb19a746083dd11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/数据结构教程-李春葆/数据结构的定义.md"
+              }
+            }
+          },
+          {
+            "id": "c8aeca9efb2f3d17",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "5daad8e1be165373",
+  "lastOpenFiles": [
+    "数据.md",
+    "source/数据结构教程-李春葆/数据结构的定义.md",
+    "source/数据结构教程-李春葆/0-数据结构与算法考试大纲.md",
+    "数据元素.md",
+    "数据对象.md",
+    "数据项.md",
+    "source/数据结构教程-李春葆/数据结构基本概念.md",
+    "source/数据结构教程-李春葆/查找.md",
+    "source/数据结构教程-李春葆/数据结构基本概念",
+    "source/数据结构教程-李春葆/查找",
+    "source/数据结构教程-李春葆/线性表.md",
+    "source/数据结构教程-李春葆/图.md",
+    "source/数据结构教程-李春葆/数组和广义表.md",
+    "source/数据结构教程-李春葆/树和二叉树.md",
+    "README.md",
+    "Untitled",
+    "source/数据结构教程-李春葆",
+    "const",
+    "source"
+  ]
+}
