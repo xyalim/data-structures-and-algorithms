@@ -6,22 +6,9 @@
       {
         "id": "70f5604991ff3f93",
         "type": "tabs",
-        "dimension": 49.64925954793453,
         "children": [
           {
             "id": "fc3e21f1da24dc90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据结构与算法考试大纲.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3efc16a110001a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,52 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "aa3de81151345763",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性表.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
-      },
-      {
-        "id": "70ac9ab5b5badd52",
-        "type": "tabs",
-        "dimension": 50.350740452065466,
-        "children": [
-          {
-            "id": "d977cf04c92cb2ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "栈.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6997db7065441fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数组和广义表.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 209.5,
+    "collapsed": true
   },
   "right": {
     "id": "0cd7020f13530163",
@@ -142,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数组和广义表.md",
+                "file": "数据结构基本概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数组和广义表.md",
+                "file": "数据结构基本概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数组和广义表.md"
+                "file": "数据结构基本概念.md"
               }
             }
           }
@@ -205,21 +149,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6997db7065441fc",
+  "active": "fc3e21f1da24dc90",
   "lastOpenFiles": [
-    "数据结构与算法考试大纲.md",
-    "数组和广义表.md",
-    "查找.md",
+    "内排序.md",
     "数据结构基本概念.md",
-    "树和二叉树.md",
-    "队列.md",
+    "数据结构与算法考试大纲.md",
+    "查找.md",
     "线性表.md",
+    "树和二叉树.md",
+    "图.md",
+    "数组和广义表.md",
+    "Excalidraw/Drawing 2024-01-19 14.38.39.excalidraw.md",
+    "Excalidraw",
+    "队列.md",
     "栈.md",
     "串.md",
     "递归.md",
     "数据结构的定义.md",
-    "内排序.md",
-    "图.md",
     "Untitled.canvas",
     "2024-01-18.md",
     "202401181523.md",
@@ -233,7 +179,6 @@
     "202401181530.md",
     "202401181529.md",
     "202401181528.md",
-    "202401181527.md",
     "Untitled 1",
     "Untitled"
   ]
