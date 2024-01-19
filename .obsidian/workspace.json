@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,9 +173,9 @@
   },
   "active": "5daad8e1be165373",
   "lastOpenFiles": [
+    "source/数据结构教程-李春葆/0-数据结构与算法考试大纲.md",
     "数据.md",
     "source/数据结构教程-李春葆/数据结构的定义.md",
-    "source/数据结构教程-李春葆/0-数据结构与算法考试大纲.md",
     "数据元素.md",
     "数据对象.md",
     "数据项.md",
