@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70f5604991ff3f93",
+        "id": "d8de5c8d920589ef",
         "type": "tabs",
         "children": [
           {
-            "id": "fc3e21f1da24dc90",
+            "id": "82d217f34a1f6e68",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 209.5
   },
   "right": {
     "id": "0cd7020f13530163",
@@ -129,13 +128,21 @@
                 "file": "数据结构基本概念.md"
               }
             }
+          },
+          {
+            "id": "d889bbfeb1fe6861",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,24 +153,28 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fc3e21f1da24dc90",
+  "active": "9c74da67cd02a4e2",
   "lastOpenFiles": [
-    "内排序.md",
+    "串.md",
     "数据结构基本概念.md",
     "数据结构与算法考试大纲.md",
-    "查找.md",
     "线性表.md",
+    "123.md",
+    "www.baidu.com.md",
+    "Excalidraw/Drawing 2024-01-19 14.38.39.excalidraw.md",
+    "2024-01-19.md",
+    "内排序.md",
+    "查找.md",
     "树和二叉树.md",
     "图.md",
     "数组和广义表.md",
-    "Excalidraw/Drawing 2024-01-19 14.38.39.excalidraw.md",
     "Excalidraw",
     "队列.md",
     "栈.md",
-    "串.md",
     "递归.md",
     "数据结构的定义.md",
     "Untitled.canvas",
@@ -176,9 +187,6 @@
     "202401181533.md",
     "202401181532.md",
     "202401181531.md",
-    "202401181530.md",
-    "202401181529.md",
-    "202401181528.md",
     "Untitled 1",
     "Untitled"
   ]
