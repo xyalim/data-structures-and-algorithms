@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8ccc161ca2b2ae10",
+        "id": "9a6332237d4d7678",
         "type": "tabs",
         "children": [
           {
-            "id": "7ce6fc46b7284bc6",
+            "id": "e67d442607d3ed1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,19 +148,26 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7ce6fc46b7284bc6",
+  "active": "e67d442607d3ed1c",
   "lastOpenFiles": [
+    "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据运算.md",
+    "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/一个数据结构的构成.md",
+    "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据的存储结构或物理结构.md",
+    "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据的逻辑结构.md",
+    "存储结构",
     "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/数据结构的定义.md",
-    "projects/数据结构教程-李春葆/0_数据结构与算法考试大纲.md",
-    "Untitled mindmap.md",
-    "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据对象.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构基本概念.md",
     "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据.md",
+    "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/结构化数据示例.md",
+    "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据对象.md",
+    "projects/数据结构教程-李春葆/0_数据结构与算法考试大纲.md",
+    "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据项.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构基本概念.md",
+    "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/结构.md",
+    "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据元素.md",
+    "Untitled mindmap.md",
     "projects/数据结构教程-李春葆/chapter/栈/栈.md",
     "projects/数据结构教程-李春葆/chapter/线性表/线性表.md",
     "Pasted image 20240120202124.png",
-    "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据元素.md",
-    "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据项.md",
     "projects/数据结构教程-李春葆/chapter/查找/查找.md",
     "projects/数据结构教程-李春葆/chapter/栈",
     "projects/数据结构教程-李春葆/chapter/线性表",
@@ -179,7 +178,6 @@
     "projects/数据结构教程-李春葆/chapter/树和二叉树",
     "projects/数据结构教程-李春葆/chapter/内排序",
     "projects/数据结构教程-李春葆/chapter/队列",
-    "projects/数据结构教程-李春葆/chapter/递归",
     "projects/数据结构教程-李春葆/chapter/队列/队列.md",
     "projects/数据结构教程-李春葆/chapter/串/串.md",
     "projects/数据结构教程-李春葆/chapter/递归/递归.md",
