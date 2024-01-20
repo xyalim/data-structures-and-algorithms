@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/数据结构教程-李春葆/0-数据结构与算法考试大纲.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5daad8e1be165373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/数据结构教程-李春葆/数据结构的定义.md",
+                "file": "source/数据结构教程-李春葆/chapter/0_数据结构的定义/数据结构的定义.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/数据结构教程-李春葆/数据结构的定义.md",
+                "file": "source/数据结构教程-李春葆/chapter/0_数据结构的定义/数据结构的定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/数据结构教程-李春葆/数据结构的定义.md",
+                "file": "source/数据结构教程-李春葆/chapter/0_数据结构的定义/数据结构的定义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/数据结构教程-李春葆/数据结构的定义.md"
+                "file": "source/数据结构教程-李春葆/chapter/0_数据结构的定义/数据结构的定义.md"
               }
             }
           },
@@ -151,13 +137,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,26 +155,35 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5daad8e1be165373",
+  "active": "f6ad01ccb54d3ed3",
   "lastOpenFiles": [
-    "source/数据结构教程-李春葆/0-数据结构与算法考试大纲.md",
-    "数据.md",
-    "source/数据结构教程-李春葆/数据结构的定义.md",
-    "数据元素.md",
-    "数据对象.md",
-    "数据项.md",
-    "source/数据结构教程-李春葆/数据结构基本概念.md",
-    "source/数据结构教程-李春葆/查找.md",
-    "source/数据结构教程-李春葆/数据结构基本概念",
-    "source/数据结构教程-李春葆/查找",
-    "source/数据结构教程-李春葆/线性表.md",
-    "source/数据结构教程-李春葆/图.md",
-    "source/数据结构教程-李春葆/数组和广义表.md",
-    "source/数据结构教程-李春葆/树和二叉树.md",
-    "README.md",
-    "Untitled",
-    "source/数据结构教程-李春葆",
-    "const",
-    "source"
+    "source/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据元素.md",
+    "source/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据项.md",
+    "source/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据对象.md",
+    "source/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据.md",
+    "source/数据结构教程-李春葆/chapter/0_数据结构的定义/数据结构的定义.md",
+    "source/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构基本概念.md",
+    "source/数据结构教程-李春葆/0_数据结构与算法考试大纲.md",
+    "source/数据结构教程-李春葆/chapter/查找/查找.md",
+    "source/数据结构教程-李春葆/chapter/栈",
+    "source/数据结构教程-李春葆/chapter/线性表",
+    "source/数据结构教程-李春葆/chapter/图",
+    "source/数据结构教程-李春葆/chapter/数组和广义表",
+    "source/数据结构教程-李春葆/chapter/数据结构基本概念",
+    "source/数据结构教程-李春葆/chapter/0_数据结构的定义",
+    "source/数据结构教程-李春葆/chapter/树和二叉树",
+    "source/数据结构教程-李春葆/chapter/内排序",
+    "source/数据结构教程-李春葆/chapter/队列",
+    "source/数据结构教程-李春葆/chapter/递归",
+    "source/数据结构教程-李春葆/chapter/队列/队列.md",
+    "source/数据结构教程-李春葆/chapter/串/串.md",
+    "source/数据结构教程-李春葆/chapter/递归/递归.md",
+    "source/数据结构教程-李春葆/chapter/内排序/内排序.md",
+    "source/数据结构教程-李春葆/chapter/树和二叉树/树和二叉树.md",
+    "source/数据结构教程-李春葆/chapter/数组和广义表/数组和广义表.md",
+    "source/数据结构教程-李春葆/chapter/栈/栈.md",
+    "source/数据结构教程-李春葆/chapter/线性表/线性表.md",
+    "source/数据结构教程-李春葆/chapter/图/图.md",
+    "README.md"
   ]
 }
