@@ -11,8 +11,12 @@
             "id": "e67d442607d3ed1c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/二元组.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/二元组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/二元组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/二元组.md"
+              }
             }
           },
           {
@@ -150,10 +158,11 @@
   },
   "active": "e67d442607d3ed1c",
   "lastOpenFiles": [
+    "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据的逻辑结构.md",
+    "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/二元组.md",
     "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据运算.md",
     "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/一个数据结构的构成.md",
     "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据的存储结构或物理结构.md",
-    "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据的逻辑结构.md",
     "存储结构",
     "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/数据结构的定义.md",
     "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/数据.md",
