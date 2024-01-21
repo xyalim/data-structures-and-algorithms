@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据结构的定义.md",
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/树形结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据结构的定义.md",
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/树形结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据结构的定义.md",
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/树形结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据结构的定义.md"
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/树形结构.md"
               }
             }
           },
@@ -183,22 +183,26 @@
   },
   "active": "005fd4df3f883cb5",
   "lastOpenFiles": [
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/集合.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/树形结构.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/逻辑结构类型.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/数据的存储结构.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/线性结构.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/图形.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/存储结构类型.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/逻辑结构表示.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/数据的逻辑结构.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据结构的定义.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构基本概念.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/一个数据结构的构成.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/数据的存储结构.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/链式存储结构.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据运算.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/存储结构类型.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/顺序存储结构.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/图形.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/数据的逻辑结构.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/逻辑结构类型.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/二元组.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/表格.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/结构化数据示例.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据对象.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据结构的定义.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据项.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据元素.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据的存储结构或物理结构.md",
@@ -208,17 +212,13 @@
     "存储结构",
     "projects/数据结构教程-李春葆/chapter/0_数据结构的定义/point/结构.md",
     "Untitled mindmap.md",
-    "projects/数据结构教程-李春葆/chapter/栈/栈.md",
-    "projects/数据结构教程-李春葆/chapter/线性表/线性表.md",
     "Pasted image 20240120202124.png",
-    "projects/数据结构教程-李春葆/chapter/查找/查找.md",
     "projects/数据结构教程-李春葆/chapter/栈",
     "projects/数据结构教程-李春葆/chapter/线性表",
     "projects/数据结构教程-李春葆/chapter/图",
     "projects/数据结构教程-李春葆/chapter/数组和广义表",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义",
-    "projects/数据结构教程-李春葆/chapter/树和二叉树",
-    "projects/数据结构教程-李春葆/chapter/队列/队列.md"
+    "projects/数据结构教程-李春葆/chapter/树和二叉树"
   ]
 }
