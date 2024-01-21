@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/逻辑结构类型/逻辑结构类型.md",
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/逻辑结构类型.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/逻辑结构类型/二元组.md",
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/二元组.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35c52869f00fe42f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/二元组.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "72cd1694545e4d40",
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/逻辑结构类型/二元组.md",
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/二元组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/逻辑结构类型/二元组.md",
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/二元组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/逻辑结构类型/二元组.md"
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/二元组.md"
               }
             }
           },
@@ -181,17 +193,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a1f90e507a3cdcd4",
+  "active": "35c52869f00fe42f",
   "lastOpenFiles": [
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/逻辑结构类型/逻辑结构类型.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/逻辑结构类型/图形.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/逻辑结构类型/表格.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/逻辑结构类型/二元组.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据的逻辑结构.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/结构化数据示例.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/逻辑结构类型.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/数据的逻辑结构.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/图形.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/表格.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/二元组.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/一个数据结构的构成.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/结构化数据示例.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据的存储结构或物理结构.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/逻辑结构类型",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构基本概念.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据结构的定义.md",
     "projects/数据结构教程-李春葆/0_数据结构与算法考试大纲.md",
