@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/顺序存储结构.md",
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法及其描述/算法及其描述.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,12 +77,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 260.5
   },
   "right": {
     "id": "72cd1694545e4d40",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/顺序存储结构.md",
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法及其描述/算法及其描述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/顺序存储结构.md",
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法及其描述/算法及其描述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/顺序存储结构.md"
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法及其描述/算法及其描述.md"
               }
             }
           },
@@ -169,12 +168,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c39bb196628a9c32",
+  "active": "7c38b82963b1b38b",
   "lastOpenFiles": [
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/存储结构类型.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构基本概念.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法及其描述/算法的五个重要特性.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构基本概念.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法及其描述/算法及其描述.md",
+    "projects/数据结构教程-李春葆/0_数据结构与算法考试大纲.md",
+    "Untitled.canvas",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/顺序存储结构.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/存储结构类型.md",
     "有输入.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/数据的存储结构.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/数据的逻辑结构.md",
@@ -198,9 +200,7 @@
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/一个数据结构的构成.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/链式存储结构.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据运算.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/顺序存储结构.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/二元组.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/表格.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构",
     "存储结构",
