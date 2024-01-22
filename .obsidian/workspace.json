@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "note",
+                "query": "tag:#flashcards",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,7 +169,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c38b82963b1b38b",
+  "active": "c39bb196628a9c32",
   "lastOpenFiles": [
     "projects/数据结构教程-李春葆/library/事前估算分析方法-图.png",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/事前估算分析方法.md",
