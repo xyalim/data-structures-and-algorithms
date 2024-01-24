@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法时间复杂度分析.md",
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/数据的存储结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "事前估算分析方法",
+                "query": "设计存储结构的这种映射应满足两个要求：",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法时间复杂度分析.md",
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/数据的存储结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法时间复杂度分析.md",
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/数据的存储结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法时间复杂度分析.md"
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/数据的存储结构.md"
               }
             }
           },
@@ -159,8 +160,8 @@
   },
   "active": "eff3cad817618157",
   "lastOpenFiles": [
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法分析：时间复杂度、空间复杂度.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法时间复杂度分析.md",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法分析：时间复杂度、空间复杂度.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/事前估算分析方法.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法空间复杂度分析.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法及其描述/算法的五个重要特性.md",
