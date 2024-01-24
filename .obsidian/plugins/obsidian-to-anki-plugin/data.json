@@ -37,7 +37,11 @@
       "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构": "",
       "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义": "",
       "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析": "",
-      "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法及其描述": ""
+      "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法及其描述": "",
+      "projects/王卓-数据结构与算法基础-严蔚敏版": "",
+      "projects/王卓-数据结构与算法基础-严蔚敏版/chapter": "",
+      "projects/王卓-数据结构与算法基础-严蔚敏版/chapter/1": "",
+      "projects/王卓-数据结构与算法基础-严蔚敏版/chapter/1/1.4 算法和算法分析": ""
     },
     "FOLDER_TAGS": {
       "projects": "",
@@ -59,7 +63,11 @@
       "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构": "",
       "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义": "",
       "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析": "",
-      "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法及其描述": ""
+      "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法及其描述": "",
+      "projects/王卓-数据结构与算法基础-严蔚敏版": "",
+      "projects/王卓-数据结构与算法基础-严蔚敏版/chapter": "",
+      "projects/王卓-数据结构与算法基础-严蔚敏版/chapter/1": "",
+      "projects/王卓-数据结构与算法基础-严蔚敏版/chapter/1/1.4 算法和算法分析": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -96,13 +104,13 @@
     "projects/数据结构教程-李春葆/chapter/栈/栈.md": "ef6a324b0707ef3e88938e96b19beec4",
     "projects/数据结构教程-李春葆/chapter/查找/查找.md": "eac314a782e2a27fea07279c45dd9a96",
     "projects/数据结构教程-李春葆/chapter/数组和广义表/数组和广义表.md": "c921add6686dc55ab4d9d92175c48039",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法及其描述/算法的五个重要特性.md": "97ff88a514ded7b38bec9240794ffc32",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法及其描述/算法的五个重要特性.md": "6bbe3b40def4e1c281c40b5822ea773f",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法及其描述/算法及其描述.md": "f8890fe06b84fbd9adc477d356116aea",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法空间复杂度分析.md": "d41d8cd98f00b204e9800998ecf8427e",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法时间复杂度分析.md": "022509406bf7dfa33de294e0a68779f2",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法分析：时间复杂度、空间复杂度.md": "26fe6e1c4b032821c247189e0c785ed9",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法时间复杂度分析.md": "2cebbc727bfd9ba60a6dd603d8e46e34",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法分析：时间复杂度、空间复杂度.md": "6c4b299088a5f80725d054058fc8aac2",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/事后分析统计方法.md": "dc29744222f0593e9dfe659bfbd1384e",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/事前估算分析方法.md": "f7d5dcef61a06fdaffb283d6c2eecf04",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/事前估算分析方法.md": "c218e15851ca56c48b0f8a71a0a6eb94",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/结构化数据示例.md": "daabca8e1f97ea97841fc15b7027563b",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据项.md": "512c341cde3887a03cdcf5542a235d42",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据运算.md": "ce5227504290a416371edb1f0421ac2c",
@@ -124,14 +132,15 @@
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/例1-3.md": "55e792cf8fe1154510d8a7c395cd310e",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的逻辑结构/二元组.md": "8ac5bc44cd4ab133309c7cbabbe8b4ad",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/顺序存储结构.md": "86537a5e48abe8bbe2681446d788e726",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/链式存储结构.md": "ba3a4e90322cdd20200ee98fac4d7e92",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/数据的存储结构.md": "c280305400a6f91765ecc846add1e369",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/链式存储结构.md": "350259158bc8ca13072330863e13f63f",
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/数据的存储结构.md": "3554ee978391240959657d34e90a767a",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/存储结构类型.md": "18d6ab44d752dd711bfe40ae4c36a101",
     "projects/数据结构教程-李春葆/chapter/图/图.md": "5afc2a63f9420a9613629e3a21fa30f7",
     "projects/数据结构教程-李春葆/chapter/内排序/内排序.md": "246cfc0787ae5a28e6c5612bd6fe0677",
     "projects/数据结构教程-李春葆/chapter/串/串.md": "3a286745951efcf32b0fb84a001aea8b",
     "projects/数据结构教程-李春葆/0_数据结构与算法考试大纲.md": "0194033b76a9a3659492f19e1980cf9b",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/不能用绝对执行时间进行比较的原因.md": "8deb37a90a3614efaee6bf818b667cb8"
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/不能用绝对执行时间进行比较的原因.md": "8deb37a90a3614efaee6bf818b667cb8",
+    "projects/王卓-数据结构与算法基础-严蔚敏版/chapter/1/1.4 算法和算法分析/例题3.md": "b58358ce76b1ea361f95483dd1366ce4"
   },
   "fields_dict": {
     "基本": [
