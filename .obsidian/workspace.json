@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表.md",
+                "file": "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的基本运算.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表.md",
+                "file": "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的基本运算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表.md",
+                "file": "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的基本运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表.md"
+                "file": "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的基本运算.md"
               }
             }
           },
@@ -171,9 +171,9 @@
   },
   "active": "eff3cad817618157",
   "lastOpenFiles": [
+    "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的定义.md",
     "projects/数据结构教程-李春葆/chapter/线性表/线性表.md",
     "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的基本运算.md",
-    "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表.md",
     "projects/数据结构教程-李春葆/chapter/线性表/线性表的顺序存储结构：顺序表及其基本运算.md",
     "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构",
     "projects/数据结构教程-李春葆/chapter/线性表/线性表的作用.md",
