@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的基本运算.md",
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据结构的定义.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的基本运算.md",
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据结构的定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的基本运算.md",
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据结构的定义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的基本运算.md"
+                "file": "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据结构的定义.md"
               }
             }
           },
@@ -171,15 +171,16 @@
   },
   "active": "eff3cad817618157",
   "lastOpenFiles": [
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构基本概念.md",
+    "projects/数据结构教程-李春葆/0_数据结构与算法考试大纲.md",
+    "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的基本运算.md",
     "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的定义.md",
     "projects/数据结构教程-李春葆/chapter/线性表/线性表.md",
-    "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的基本运算.md",
     "projects/数据结构教程-李春葆/chapter/线性表/线性表的顺序存储结构：顺序表及其基本运算.md",
     "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构",
     "projects/数据结构教程-李春葆/chapter/线性表/线性表的作用.md",
     "projects/数据结构教程-李春葆/chapter/线性表/线性表的定义.md",
     "projects/数据结构教程-李春葆/chapter/线性表/线性表的运算.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构基本概念.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法分析：时间复杂度、空间复杂度.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法空间复杂度分析/例题.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法空间复杂度分析/算法空间复杂度分析.md",
@@ -198,7 +199,6 @@
     "projects/数据结构教程-李春葆/chapter/查找/查找.md",
     "projects/数据结构教程-李春葆/chapter/栈/栈.md",
     "projects/数据结构教程-李春葆/chapter/图/图.md",
-    "projects/数据结构教程-李春葆/chapter/数组和广义表/数组和广义表.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法时间复杂度分析",
     "Untitled",
     "projects/王卓-数据结构与算法基础-严蔚敏版/chapter/1/1.4 算法和算法分析",
