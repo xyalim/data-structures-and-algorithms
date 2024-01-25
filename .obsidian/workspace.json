@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的定义.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eff3cad817618157",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的基本运算.md",
+                "file": "projects/数据结构教程-李春葆/chapter/线性表/线性表的定义.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的基本运算.md",
+                "file": "projects/数据结构教程-李春葆/chapter/线性表/线性表的定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的基本运算.md",
+                "file": "projects/数据结构教程-李春葆/chapter/线性表/线性表的定义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的基本运算.md"
+                "file": "projects/数据结构教程-李春葆/chapter/线性表/线性表的定义.md"
               }
             }
           },
@@ -194,14 +182,20 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "eff3cad817618157",
+  "active": "fcbf99530930fbd3",
   "lastOpenFiles": [
-    "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的定义.md",
-    "projects/数据结构教程-李春葆/0_数据结构与算法考试大纲.md",
-    "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的基本运算.md",
-    "projects/数据结构教程-李春葆/chapter/线性表/线性表的运算.md",
     "projects/数据结构教程-李春葆/chapter/线性表/线性表.md",
     "projects/数据结构教程-李春葆/chapter/线性表/线性表的定义.md",
+    "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/链式存储结构.md",
+    "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/单链表.md",
+    "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/双链表.md",
+    "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/循环链表.md",
+    "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构",
+    "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的基本运算.md",
+    "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的定义.md",
+    "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/插入数据元素的平均情况分析.png",
+    "projects/数据结构教程-李春葆/0_数据结构与算法考试大纲.md",
+    "projects/数据结构教程-李春葆/chapter/线性表/线性表的运算.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/顺序存储结构.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据的存储结构/存储结构类型.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构基本概念.md",
@@ -218,11 +212,7 @@
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据项.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据对象.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/结构化数据示例.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/数据结构的定义/数据.md",
-    "projects/数据结构教程-李春葆/chapter/线性表/线性表的顺序存储结构：顺序表及其基本运算.md",
     "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构",
-    "projects/数据结构教程-李春葆/chapter/线性表/线性表的作用.md",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法空间复杂度分析/例题.md",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法空间复杂度分析",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法时间复杂度分析",
     "Untitled",
@@ -233,7 +223,6 @@
     "projects/数据结构教程-李春葆/library/事前估算分析方法-图.png",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析",
     "Untitled.canvas",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法及其描述",
     "projects/数据结构教程-李春葆/library/例1-3-图.png",
     "Pasted image 20240120202124.png"
   ]
