@@ -106,7 +106,7 @@
     "README.md": "d41d8cd98f00b204e9800998ecf8427e",
     "projects/数据结构教程-李春葆/chapter/队列/队列.md": "7ac179ca07394fbbbf6afe2b598cb7fb",
     "projects/数据结构教程-李春葆/chapter/递归/递归.md": "d57ea355ee8ff61b47fb356165279e94",
-    "projects/数据结构教程-李春葆/chapter/线性表/线性表.md": "7cfa6a375a85e5832e93da4674140743",
+    "projects/数据结构教程-李春葆/chapter/线性表/线性表.md": "f64dbdbf7c4591b8709c8938d6976bdc",
     "projects/数据结构教程-李春葆/chapter/树和二叉树/树和二叉树.md": "fd884fa63780e87d33e4a68dcf7f88f6",
     "projects/数据结构教程-李春葆/chapter/栈/栈.md": "b74171aa26437bde2f10edc33df840b9",
     "projects/数据结构教程-李春葆/chapter/查找/查找.md": "119be801dd51c93f44b903fbadf1c677",
@@ -158,7 +158,8 @@
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法时间复杂度分析/例题.md": "b6235b8aaf94e138392ff9c16fcf75b9",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法空间复杂度分析/算法空间复杂度分析.md": "4a7040ece42c58d47fa6826e104e4e8c",
     "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法时间复杂度分析/不能用绝对执行时间进行比较的原因.md": "e25a14c3f4f7d94abd54ac97115517ef",
-    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法空间复杂度分析/例题.md": "61ac0763b71da98786efb52a7b1aa346"
+    "projects/数据结构教程-李春葆/chapter/数据结构基本概念/算法分析/算法空间复杂度分析/例题.md": "61ac0763b71da98786efb52a7b1aa346",
+    "projects/数据结构教程-李春葆/chapter/线性表/线性表的定义和基本操作.md": "615eaac187bd8709939d6c37b9cb2f9b"
   },
   "fields_dict": {
     "基本": [
