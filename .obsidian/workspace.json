@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/线性表的链式存储结构.md",
+                "file": "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/单链表.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/线性表的链式存储结构.md",
+                "file": "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/单链表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/线性表的链式存储结构.md",
+                "file": "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/单链表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/线性表的链式存储结构.md"
+                "file": "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/单链表.md"
               }
             }
           },
@@ -196,12 +196,12 @@
   },
   "active": "fcbf99530930fbd3",
   "lastOpenFiles": [
+    "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/线性表的链式存储结构.md",
     "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/循环链表.md",
     "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/循环双链表.md",
     "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/双链表.md",
     "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/循环单链表.md",
     "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/单链表.md",
-    "projects/数据结构教程-李春葆/chapter/线性表/链式存储结构/线性表的链式存储结构.md",
     "projects/数据结构教程-李春葆/chapter/线性表/线性表.md",
     "projects/数据结构教程-李春葆/chapter/线性表/线性表的定义.md",
     "链式存储.md",
