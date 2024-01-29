@@ -101,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,7 +193,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "a0da3bff930292a9",
+  "active": "a0163b6e6fd58d60",
   "lastOpenFiles": [
     "projects/数据结构教程-李春葆/0_数据结构与算法考试大纲.md",
     "projects/数据结构教程-李春葆/chapter/线性表/顺序存储结构/顺序表的基本运算.md",
